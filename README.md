@@ -1,7 +1,12 @@
-# JuniSMP-v4
+# JuniSMP-v4 (SUPERSEDED)
 
-Prism Launcher import zip for JuniSMP v4 (Fabric MC 26.2, Loader 0.19.5, 43 mods).
+**This repo is outdated and archived.** It shipped an incomplete pack (43 jars,
+missing 7 required Fabric library dependencies) and has been superseded.
 
-Download from **Releases** — `JuniSMP-v4-prism.zip` (release asset only, never committed to git).
+**→ Use [0124212/JuniSMP](https://github.com/0124212/JuniSMP) instead.**
+That repo has the current, correct pack (71 server mods via
+`itzg/minecraft-server` + a matching 48-entry Prism client zip) and is the
+one actually kept in sync with what runs on the live server.
 
-Built in JUN-197. Published in JUN-198.
+Kept here only so the old `v1.0.0` release asset doesn't 404 for anyone
+with an old link.
